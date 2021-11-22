@@ -1,0 +1,64 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  background-color: black;
+}
+
+h1{
+  text-align: center;
+  letter-spacing: 0.5rem;
+  border: orange solid 5px;
+  border-radius: 10%;
+  font-size: 2.5rem;
+  padding: 1rem;
+}
+
+.container {
+  margin: 2.5rem 2rem 0 2rem;
+  color: aliceblue;
+  background-color: black;
+  position: relative;
+  font-family: Montserrat, sans-serif !important;
+}
+
+.hobbies {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  gap: 3rem;
+  padding: 3rem;
+  border: orange 5px solid;
+}
+
+img {
+  width: 100%;
+  height: 80%;
+  }
+
+footer{
+  margin: 4rem 6rem 0 6rem;
+  background-color: rgb(236, 224, 224);
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  border-radius: 17%;
+  height: 4rem;
+}
+
+a {
+  margin-top: 1rem;
+  text-decoration: none;
+  background-color: rgb(236, 224, 224);
+  color: black;
+  font-family: Montserrat;
+  letter-spacing: 0.6rem;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+p {
+  margin-top: 1.5rem;
+  text-align: center;
+}
